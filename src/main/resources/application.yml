@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: conveyorbelt
+
+conveyor:
+  belt:
+    stepCount: 100
+    workerPairCount: 3
+    length: 5
