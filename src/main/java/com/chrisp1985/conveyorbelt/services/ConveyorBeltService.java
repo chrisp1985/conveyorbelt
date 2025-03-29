@@ -1,5 +1,6 @@
 package com.chrisp1985.conveyorbelt.services;
 
+import com.chrisp1985.conveyorbelt.configuration.ConveyorBeltServiceConfig;
 import com.chrisp1985.conveyorbelt.enums.Component;
 import com.chrisp1985.conveyorbelt.enums.Item;
 import com.chrisp1985.conveyorbelt.enums.Product;

@@ -3,7 +3,7 @@ package com.chrisp1985.conveyorbelt.conveyorbelt;
 import com.chrisp1985.conveyorbelt.enums.Component;
 import com.chrisp1985.conveyorbelt.objects.ConveyorBelt;
 import com.chrisp1985.conveyorbelt.services.ConveyorBeltService;
-import com.chrisp1985.conveyorbelt.services.ConveyorBeltServiceConfig;
+import com.chrisp1985.conveyorbelt.configuration.ConveyorBeltServiceConfig;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

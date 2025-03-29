@@ -2,7 +2,7 @@ package com.chrisp1985.conveyorbelt;
 
 import com.chrisp1985.conveyorbelt.objects.ConveyorBelt;
 import com.chrisp1985.conveyorbelt.services.ConveyorBeltService;
-import com.chrisp1985.conveyorbelt.services.ConveyorBeltServiceConfig;
+import com.chrisp1985.conveyorbelt.configuration.ConveyorBeltServiceConfig;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
